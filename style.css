@@ -134,14 +134,14 @@ body {
     background-image: url('./img/googleplay-button.png');
 }
 
-/* media queries */
-
+/* responsivo */
+/*tablet*/
 @media(max-width: 1024px){
     .instagram-principal{
         width: 90%;
     }
 }
-
+/*celular*/
 @media(max-width: 650px){
     .instagram-principal{
         width: 90%;
