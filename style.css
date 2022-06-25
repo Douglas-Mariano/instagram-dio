@@ -143,6 +143,9 @@ body {
 }
 /*celular*/
 @media(max-width: 650px){
+    body{
+        background-color: white;
+    }
     .instagram-principal{
         width: 90%;
     }
@@ -153,5 +156,9 @@ body {
     
     .instagram-continue{
         width: 100%;
+    }
+
+    .grupo{
+        border: 1px transparent;
     }
 }
